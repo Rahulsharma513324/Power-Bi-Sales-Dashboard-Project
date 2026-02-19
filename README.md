@@ -1,5 +1,8 @@
 ![Dashboard Preview](Madhav%20Ecommerce%20Sales%20Dashboard.png)
 
+Madhav Ecommerce Sales Dashboard
+
+
 Project Overview
 
 This project involves analyzing a comprehensive E-Commerce sales dataset to identify key performance indicators (KPIs) and business trends. The interactive Power BI dashboard provides actionable insights into sales volume, profit margins, and customer payment behaviors across different Indian states.
